@@ -1,4 +1,9 @@
 ### Hi there 👋
+-🤓I am an undergradute student at Bilkent University, Department of Computer Science.
+
+-💁‍♀️It's my first year in the department.
+
+-👩‍💻I'm learning Java programming language.
 
 <!--
 **dogaertrk/dogaertrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
