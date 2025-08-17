@@ -1,9 +1,9 @@
 ### Hi there 👋
--🤓I am an undergradute student at Bilkent University, Department of Computer Science.
+-🤓I am an undergradute junior at Bilkent University, Department of Computer Science.
 
--💁‍♀️It's my second year in the department.
+-💁‍♀️It's my third year in the department.
 
--👩‍💻I'm learning many programming languages, especially Java and C++.
+-👩‍💻I'm learning several programming languages, especially Java and C++.
 
 
 - 🌱 I’m currently advancing System Verilog, MIPS Assembly, C++.
