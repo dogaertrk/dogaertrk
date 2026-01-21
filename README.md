@@ -6,5 +6,5 @@
 -👩‍💻I'm learning several programming languages, especially Java and C++.
 
 
-- 🌱 I’m currently advancing System Verilog, MIPS Assembly, C++.
+- 🌱 I’m currently advancing Spring Boot, React.
 - 📫 How to reach me: doga.erturk@ug.bilkent.edu.tr
